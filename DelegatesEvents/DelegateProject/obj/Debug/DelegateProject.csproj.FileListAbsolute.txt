@@ -1,0 +1,10 @@
+C:\Users\Sattar\Documents\Code Academy\Classes\P210\20190516\DelegatesEvents\DelegateProject\bin\Debug\DelegateProject.exe.config
+C:\Users\Sattar\Documents\Code Academy\Classes\P210\20190516\DelegatesEvents\DelegateProject\bin\Debug\DelegateProject.exe
+C:\Users\Sattar\Documents\Code Academy\Classes\P210\20190516\DelegatesEvents\DelegateProject\bin\Debug\DelegateProject.pdb
+C:\Users\Sattar\Documents\Code Academy\Classes\P210\20190516\DelegatesEvents\DelegateProject\obj\Debug\DelegateProject.csprojAssemblyReference.cache
+C:\Users\Sattar\Documents\Code Academy\Classes\P210\20190516\DelegatesEvents\DelegateProject\obj\Debug\DelegateProject.Form1.resources
+C:\Users\Sattar\Documents\Code Academy\Classes\P210\20190516\DelegatesEvents\DelegateProject\obj\Debug\DelegateProject.Properties.Resources.resources
+C:\Users\Sattar\Documents\Code Academy\Classes\P210\20190516\DelegatesEvents\DelegateProject\obj\Debug\DelegateProject.csproj.GenerateResource.cache
+C:\Users\Sattar\Documents\Code Academy\Classes\P210\20190516\DelegatesEvents\DelegateProject\obj\Debug\DelegateProject.csproj.CoreCompileInputs.cache
+C:\Users\Sattar\Documents\Code Academy\Classes\P210\20190516\DelegatesEvents\DelegateProject\obj\Debug\DelegateProject.exe
+C:\Users\Sattar\Documents\Code Academy\Classes\P210\20190516\DelegatesEvents\DelegateProject\obj\Debug\DelegateProject.pdb
